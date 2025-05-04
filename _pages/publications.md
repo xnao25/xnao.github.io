@@ -31,8 +31,7 @@ presentation at 2023 NCI RNA Biology Symposium.
 Wang, B.; Wan, Y; Mount, SM; Larson, DR., (2023, Jan) Recursive Splicing Site Sequence Feature Analysis. Poster
 presentation at NCI-UMD Partnership Symposium of the Partnership for Integrative Cancer Research.
 
-Wang, B.; Wan, Y; Mount, SM; Larson, DR., (2022, July) Recursive Splicing Site Sequence Feature Analysis. Poster
-presentation at 2023 NCI RNA Biology Symposium.
+Wang, B.; Wan, Y; Mount, SM; Larson, DR., (2022, July) Recursive Splicing Site Sequence Feature Analysis. Poster presentation at the 2022 Gordon Research Conference: Post-transcriptional gene regulation.
 
 Wang, B.; Li, M.; Wang, F.; Shahan, R; Benfey, P; Mount, SM; Liu, Z. (2022, May) Root Meristem Development Analysis
 by Gene Coexpression Networks. Poster presentation at the COMBINE annual symposium 2022.
