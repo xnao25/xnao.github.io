@@ -14,4 +14,8 @@ Before moving to Maryland, I was a bioinformatician at [Burning Rock Dx, Shangha
 
 I enjoy tackling biological questions through inspired and innovative coding. I have experience in both developing bioinformatics tools and interpreting challenging biological big data. I am excited about learning new frameworks/languages and coding strategies. Besides computational biology, I like video games, hiking, and reading.
 
-![Me and my dog](/images/naonao.png)
+
+| ![Me and my dog](/images/naonao1.png) | ![whitemountain](/images/whitemountain.png) |
+|--------------------------------|--------------------------------|
+| ![billysgoat](/images/billygoat.png) | ![graduation](/images/graduate.png) |
+
